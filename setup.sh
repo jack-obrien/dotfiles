@@ -1,4 +1,5 @@
 mv -T ~/dotfiles ~/.dotfiles
+rm ~/.tmux.conf ~/.vimrc
 ln -s .dotfiles/.tmux.conf
 ln -s .dotfiles/.vimrc
 
