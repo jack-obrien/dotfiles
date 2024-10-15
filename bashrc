@@ -6,3 +6,5 @@ source $DOTFILES_DIR/vim_bash_keybindings.sh
 
 # alias rm to build safer habits
 alias rm="echo Please use trash or /bin/rm"
+
+alias histroy=history
