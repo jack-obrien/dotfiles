@@ -8,7 +8,4 @@ source $DOTFILES_DIR/unlimited_bash_history.sh
 source $DOTFILES_DIR/vim_bash_keybindings.sh
 source $DOTFILES_DIR/history_search.sh
 
-# alias rm to build safer habits
-alias rm="echo Please use trash or /bin/rm"
-
 alias histroy=history
